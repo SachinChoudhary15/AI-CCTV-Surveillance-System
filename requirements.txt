@@ -1,0 +1,29 @@
+
+# Deep Learning
+torch
+torchvision
+ultralytics
+
+# Computer Vision
+opencv-python
+numpy
+Pillow
+imutils
+
+# Backend
+fastapi
+uvicorn
+pydantic
+
+# Dashboard
+streamlit
+pandas
+
+# Alerts
+requests
+
+# Configuration
+python-dotenv
+
+# Testing
+pytest
