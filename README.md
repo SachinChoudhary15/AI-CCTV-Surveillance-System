@@ -268,13 +268,36 @@ Example output:
 
 ---
 
+## 📸 Project Screenshots
+
+### Person Detection
+
+![Detection](assets/Detection.png)
+
+---
+
+### Dashboard
+
+![Dashboard](assets/Dashboard.png)
+
+---
+
+### FastAPI Documentation
+
+![API Docs](assets/api_docs.png)
+
+---
+
+### Snapshot Gallery
+
+![Snapshots](assets/data_snapshot.png)
+
 ## Future Improvements
 
 * Suspicious activity detection
 * Weapon detection
 * Docker deployment
 * Cloud deployment
-* Face recognition support
 
 ---
 
